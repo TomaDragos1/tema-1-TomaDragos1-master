@@ -7,6 +7,7 @@ public class Tema1 {
 		if(args == null)
 		{
 			System.out.print("Hello world!");
+			//dasdasdasd
 		}
 	}
 }
